@@ -1,9 +1,9 @@
-## Web Framework
+mkuu## Web Framework
 A web framework is a software framework that provides a structured way to build and develop web applications. 
 - It includes pre-built components, libraries, and tools that facilitate the creation of web applications by providing common functionality, such as handling HTTP requests, managing routes, and handling database interactions.
 
 ## Flask
-Flask is a micro web framework for Python that is lightweight and easy to use. 
+Flask is a micro-web framework for Python that is lightweight and easy to use. 
 - It provides the basic tools and libraries needed to build a web application, but it doesn't come with many pre-built features, allowing developers to choose and add components as needed.
 
 To build a web framework with Flask, you would typically follow these steps:
